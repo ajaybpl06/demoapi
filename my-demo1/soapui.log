@@ -1,0 +1,6 @@
+2020-10-08 11:02:01,032 WARN  [SoapUI] Missing folder [C:\Users\Ajay\Desktop\shoppingproject\my-demo1\ext] for external libraries
+2020-10-08 11:02:01,256 INFO  [DefaultSoapUICore] initialized soapui-settings from [C:\Users\Ajay\soapui-settings.xml]
+2020-10-08 11:02:01,953 INFO  [WsdlProject] Loaded project from [file:/C:/Users/Ajay/Desktop/shoppingproject/my-demo1/Shopping-new-soapui-project.xml]
+2020-10-08 11:02:02,019 INFO  [SoapUITestCaseRunner] Running SoapUI tests in project [Shopping_new]
+2020-10-08 11:02:02,021 INFO  [SoapUITestCaseRunner] Running Project [Shopping_new], runType = SEQUENTIAL
+2020-10-08 11:02:02,025 INFO  [SoapUITestCaseRunner] Project [Shopping_new] finished with status [FINISHED] in 0ms
